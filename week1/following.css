@@ -1,0 +1,17 @@
+.click{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+
+    border:1px solid #cfd9de ;
+    background-color: white;
+    color: #0f1419;
+    border-radius: 15px;
+
+    padding: 10px;
+    font-weight: bold;
+
+}
