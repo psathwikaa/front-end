@@ -28,6 +28,8 @@ Documenting my weekly HTML & CSS practice as I learn front-end development.
 - Built small practice exercises: word blanks, record collection updater, card counting logic
 - Files: [week-3/](./week-3/)
 
+- This week, I worked on building a simple Motion Detector component using VueUse in Nuxt project. The task was to capture device motion data and display it in the same format as another component using useMouse(). It looked like a small task in the beginning, but I ended up spending a lot more time than expected debugging browser compatibility, permissions, and device motion APIs. It was a good learning experience and helped me understand how browser APIs and VueUse work in real projects.
+
 ## 🛠️ Tools
 - VS Code
 - Live Server
