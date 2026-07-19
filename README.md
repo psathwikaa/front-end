@@ -11,7 +11,13 @@ Documenting my weekly HTML & CSS practice as I learn front-end development.
 - Files: [`week-1/`](./week-1)
 
 ### Week 2
-- _(coming soon)_
+
+- Built a birthday gift card page with multiple hover-triggered GIF reveals
+- Practiced using background-image with :hover states on div elements
+- Learned why background-image doesn't apply to img tags, and switched to divs to fix it
+- Explored gradients (linear-gradient) and custom Google Fonts
+- Built a space-themed landing page practicing font-variation-settings, buttons, and text styling with span
+- Files: [week-2/](./week-2/)
 
 ## 🛠️ Tools
 - VS Code
