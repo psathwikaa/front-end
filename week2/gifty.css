@@ -1,0 +1,113 @@
+body{
+    
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background: linear-gradient(lightblue, pink);
+  color: black;
+  
+  
+
+}
+
+h1,h2,h3,p {
+
+    text-shadow: 0px 0px 1px black ;
+
+}
+
+
+#card{
+    width: 150px;
+    border-radius: 50% ;
+    border: 5px solid pink;
+    
+}
+
+
+#header{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#age{
+   background: pink;
+   padding: 4px 7px;
+   border-radius: 5px;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+
+#date{
+   background: pink;
+   padding: 4px 7px;
+   border-radius: 5px;
+   margin-bottom: 30px;
+   
+}
+
+.gimg{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("gift-cover.jpg");
+    background-size: cover;
+}
+
+#gif1:hover {
+    background-image: url("happy.gif");
+}
+
+#gif2:hover {
+    background-image: url("hot.gif");
+}
+
+
+#gif3:hover{
+    background-image: url("genius.gif");
+}
+
+#gif4:hover{
+    background-image: url("badass.gif");
+}
+
+#gif5{
+    height: 200px;
+}
+
+#gif5:hover{
+    
+    background-image: url("cheers.gif");
+}
+
+
+.gh3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-shadow: 3px 0px 3px white;
+}
+
+
+
+.gh2{
+    text-shadow: 3px 0px 3px white;
+}
+
+.footer{
+    margin-top: 10px auto;
+    font-style: italic;
+
+    color: pink;
+}
+
+a{
+    color: black;
+}
+
