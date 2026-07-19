@@ -19,6 +19,15 @@ Documenting my weekly HTML & CSS practice as I learn front-end development.
 - Built a space-themed landing page practicing font-variation-settings, buttons, and text styling with span
 - Files: [week-2/](./week-2/)
 
+- ## Week 3
+
+- Practiced JavaScript basics: variables, data types, string operations, and reusable functions
+- Learned arrays: accessing/modifying by index, push, pop, shift, unshift, nested and multi-dimensional arrays
+- Learned objects: dot vs bracket notation, checking properties, adding/updating/deleting properties
+- Practiced conditionals: if/else, equality (===) vs inequality (!==), logical operators (&&, ||), chained if-else, and switch statements
+- Built small practice exercises: word blanks, record collection updater, card counting logic
+- Files: [week-3/](./week-3/)
+
 ## 🛠️ Tools
 - VS Code
 - Live Server
